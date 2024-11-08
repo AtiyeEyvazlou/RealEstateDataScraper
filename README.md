@@ -1,7 +1,4 @@
-# propertyinfo_homePriceInTabriz
-Here’s a simple README to guide users through your project:
-
-Real Estate Data Scraper
+#Real Estate Data Scraper
 
 This project scrapes real estate data from melketabriz.com using unique property codes and compiles the extracted information into a structured CSV file. This tool can be useful for users who want to collect detailed data on multiple properties from the website for further analysis or reference.
 
