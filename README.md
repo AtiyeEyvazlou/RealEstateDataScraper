@@ -39,7 +39,6 @@ Each time you run the `add_to_excel()` function with a DataFrame, the extracted 
 ### Code Explanation
 - `extract_data_of_given_code(given_code)`: This function generates a URL using the provided `given_code`, then fetches and parses the data. If the code is invalid, it returns `None`.
 - `add_to_excel(df)`: Appends the given DataFrame `df` to `combined_property_info.csv`.
-- 
 ### Example Usage
 ```python
 # Specify a valid property code
